@@ -1,0 +1,33 @@
+Class:sun plant zombie eat move
+
+通用属性： 	 图片缓存：bufferedImage       当前图片：num
+		四边形 rectangle
+		位置 植物 位置 僵尸 移动  x轴减少
+		point(x,y);
+		植物 僵尸 的编号
+		生命 HP	  攻击力 植物的攻击 僵尸的攻击
+		1.每一个类当中 生命
+		2.抽象成一个类 
+
+
+
+General Operation
+
+
+//Image
+读取图片
+BufferedImage
+
+移动1-13
+
+
+/*
+	 * se   jvm
+	 * JSP  不怎么用
+	 ** 数据库  锁机制  隔离级别  索引机制  B+树
+	 * SSM  spring<   class =" com.beidou.Person" 会第一次遇到设计模式>  为什么
+	 * *高并发怎么处理
+	 * MVC  思想
+	 **  怎么实现的
+	 **  线程  20k 
+	 */
